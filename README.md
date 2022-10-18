@@ -1,5 +1,4 @@
 # Fund-me-Brownie
-Smart contract that lets anyone deposit ETH. Only the owner of the contract can withdraw the ETH. Python scripts to deploy the contract, fund the contract and withdraw the money. Python tests to test the contract.
 
 ## FundMe.sol
 A smart contract to:
